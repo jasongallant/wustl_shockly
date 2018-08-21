@@ -25,7 +25,7 @@ From: jasongallant/singular_shockly
 # Create directories to enable access to common HPCC mount points
 ################################################################################
 mkdir -p /home
-mkdir -p /mnt/scratch
+mkdir -p /scratch
 
 ################################################################################
 # Run the user's login shell, or a user specified command
